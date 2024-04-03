@@ -15,8 +15,8 @@ global.location = "Srilanka,southern, Galle" //ur location
 
 //new
 global.botname = '𝓐𝓿𝓲-𝔁-𝓪𝓷𝓰𝓮𝓵' //ur bot name
-global.ownernumber = '94772836332' //ur owner number
-global.ownername = '𝓡𝓮𝓪𝓵 𝓚𝓲𝓷𝓰 𝓐𝓿𝓲' //ur owner name
+global.ownernumber = '94781226144' //ur owner number
+global.ownername = 'DAPPER - MD' //ur owner name
 global.websitex = "https://youtube.com/@Avi_NetHunter?sub_confirmation=1"
 global.wagc = "https://whatsapp.com/channel/0029VaGisHDFHWq5jpuEmC2t"
 global.themeemoji = '🗡'
